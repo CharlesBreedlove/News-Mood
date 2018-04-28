@@ -1,4 +1,9 @@
 
+# Observations
+* CBS is the most positive news outlet
+* Every other news outlet has a generally netural with there tweets
+* Most tweets are netural
+
 
 ```python
 # Dependencies
@@ -99,7 +104,7 @@ plt.show()
 ```
 
 
-![png](output_8_0.png)
+![png](output_9_0.png)
 
 
 
@@ -119,5 +124,5 @@ plt.show()
 ```
 
 
-![png](output_10_0.png)
+![png](output_11_0.png)
 
